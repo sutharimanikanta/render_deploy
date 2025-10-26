@@ -1,0 +1,10 @@
+{
+	"python.defaultInterpreterPath": "D:\\Env\\sql\\Scripts\\python.exe",
+	"python.pythonPath": "D:\\Env\\sql\\Scripts\\python.exe",
+	"python.venvPath": "D:\\Env\\sql",
+	"python.analysis.useImportHeuristic": true,
+	"python.analysis.extraPaths": [
+		"D:\\Env\\sql\\Lib\\site-packages"
+	],
+	"python-envs.pythonProjects": []
+}
